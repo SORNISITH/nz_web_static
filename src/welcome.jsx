@@ -78,7 +78,7 @@ const Welcome = () => {
             </div>
           </div>
           <div
-            className=" slideInRight centerflex"
+            className="centerflex"
             style={{
               width: "50%",
               height: "100%",
